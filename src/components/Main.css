@@ -55,18 +55,18 @@
 }
 
 .tarefas li .edit {
-  margin-right: 15px;
+  /* margin-right: 15px; */
   background-color: #51c5de;
 }
 
 .tarefas li .delete {
-  margin-right: 15px;
+  /* margin-right: 15px; */
   background-color: #f04c64;
 }
 
 .tarefas li:hover .edit,
 .tarefas li:hover .delete {
-  color: #000;
+  color: #000000;
 }
 
 .tarefas li .edit,
