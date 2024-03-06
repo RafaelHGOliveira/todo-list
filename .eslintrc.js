@@ -27,5 +27,7 @@ module.exports = {
     'react/prefer-stateless-function': 0,
     'react/no-unused-state': 0,
     'react/state-in-constructor': 0,
+    'jsx-a11y/control-has-associated-label': 0,
+    'class-methods-use-this': 0,
   },
 };
