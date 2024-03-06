@@ -22,6 +22,7 @@ export default class Main extends Component {
     const novasTarefas = [...tarefas];
     this.setState({
       tarefas: [...novasTarefas, novaTarefa],
+      novaTarefa: '',
     });
   };
 
